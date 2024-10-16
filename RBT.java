@@ -1,3 +1,9 @@
+/*
+* Author: Morya Odak
+* Date: 4/26/2024
+* Course: CSC 345
+*/
+
 public class RBT {
     private Node root;
     private int size;
